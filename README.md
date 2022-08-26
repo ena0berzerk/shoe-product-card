@@ -1,2 +1,3 @@
-# shoe-product-card
-My training product
+# Карточка товара обуви
+
+[Посмотреть](https://ena0berzerk.github.io/shoe-product-card/)
