@@ -1,3 +1,3 @@
 # Карточка товара обуви
 
-[Посмотреть](https://ena0berzerk.github.io/shoe-product-card/)
+[Посмотреть](https://github.com/ena0berzerk/shoe-product-card.git)
